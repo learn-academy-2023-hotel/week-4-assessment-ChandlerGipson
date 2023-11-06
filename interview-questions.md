@@ -37,3 +37,5 @@ Researched answer: A version manager is a tool that helps manage and switch betw
 2. Test-driven development: The most important tool to assure that code well written and as free of bugs as possible, is automated tests. Automated tests can be run over and over again assuring the developer that the code is solid and users will have a great experience.
 
 3. CRUD: Create, Read, Update, Delete
+
+
