@@ -8,32 +8,32 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is the virtual DOM in React?
 
-Your answer:
+Your answer: the virtual dom allows react to isolate a node, and isolate change
 
-Researched answer:
+Researched answer:virtual dom allows react to isolate a node, listen for achange and isolate that specific change
 
 2. Ruby has an implicit return. What does that mean?
 
-Your answer:
+Your answer: return the value of a function without return keyword.
 
-Researched answer:
+Researched answer: return a value from a function or expression without explicitly using the "return" keyword.
 
 3. Compare and contrast JavaScript and Ruby. What are three things they have in common and what are three differences?
 
-Your answer:
+Your answer: you don't need to declare variable types explicitly. JavaScript and Ruby are both object-oriented languages. They both use everything as an object  and they support classes inheritance.
 
 Researched answer:
 
 4. STRETCH: What is a version manager?
 
-Your answer:
+Your answer: it helps developers track changes to their code
 
-Researched answer:
+Researched answer: A version manager is a tool that helps manage and switch between different versions of software or programming libraries
 
 ## Looking Ahead: Terms for Next Week
 
-1. RSpec:
+1. RSpec:  RSpec (Ruby specification) is a domaine specific language used for testing the behavior of objects in the Ruby programming language.
 
-2. Test-driven development:
+2. Test-driven development: The most important tool to assure that code well written and as free of bugs as possible, is automated tests. Automated tests can be run over and over again assuring the developer that the code is solid and users will have a great experience.
 
-3. CRUD: 
+3. CRUD: Create, Read, Update, Delete
