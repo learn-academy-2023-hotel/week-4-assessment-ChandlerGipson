@@ -28,16 +28,23 @@ describe("colors", () => {
 
 
 // b) Create the function that makes the test pass.
-const arrayColors = (arr) => {
-    const[,... rest] = arr
-    for (let i = rest.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1))
-        [rest[i], rest[j]] = [rest[j], rest[i]]
-    }
-    return rest
+// const arrayColors = (arr) => {
+//     const[,... rest] = arr
+//     for (let i = rest.length - 1; i > 0; i--) {
+//         const j = Math.floor(Math.random() * (i + 1))
+//         [rest[i], rest[j]] = [rest[j], rest[i]]
+//     }
+//     return rest
+// }
+// console.log(arrayColors(colors1))
+// console.log(arrayColors(colors2))
+
+
+const removeAndShuffle = (array) => {
+    return array.slice([1]).sort(() => Math.random() - 0.5)
 }
-console.log(arrayColors(colors1))
-console.log(arrayColors(colors2))
+
+
 
 // Pseudo code: 
 //1. fisher yates shuffle algorithm

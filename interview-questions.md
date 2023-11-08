@@ -22,7 +22,7 @@ Researched answer: return a value from a function or expression without explicit
 
 Your answer: you don't need to declare variable types explicitly. JavaScript and Ruby are both object-oriented languages. They both use everything as an object  and they support classes inheritance.
 
-Researched answer:
+Researched answer: JavaScript uses curly braces and semicolons, while Ruby has a cleaner and more natural syntax. Ruby aslo uses pascalcase. JavaScript is mainly used in web browsers, while Ruby is commonly used for server-side web development.
 
 4. STRETCH: What is a version manager?
 
@@ -37,5 +37,7 @@ Researched answer: A version manager is a tool that helps manage and switch betw
 2. Test-driven development: The most important tool to assure that code well written and as free of bugs as possible, is automated tests. Automated tests can be run over and over again assuring the developer that the code is solid and users will have a great experience.
 
 3. CRUD: Create, Read, Update, Delete
+
+
 
 
