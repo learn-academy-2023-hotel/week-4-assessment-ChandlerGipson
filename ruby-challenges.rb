@@ -76,3 +76,4 @@ palindrome_test_case3 = 'Rotator'
 # 2. output a string that says whether the word is or isnt
 # 3.created the method and made if else statements with strings in them
 # 4.
+
